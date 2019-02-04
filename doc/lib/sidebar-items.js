@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Salsa20",""]],"type":[["Key","Implementation of Salsa20 256-bit key, packed in an array of u8."],["Nonce","64-bit nonce, packed in an array of u8."]]});

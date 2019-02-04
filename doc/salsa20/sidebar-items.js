@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Salsa20","Implementation of Salsa20 using a 256-bit key and a 512-bit cipher box."]],"type":[["Key","256-bit key, packed in an array of u8."],["Nonce","64-bit nonce, packed in an array of u8."]]});
